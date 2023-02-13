@@ -11,6 +11,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/beeNotice/tanzu-simple
+      url: https://github.com/ezYakaEagle442/tanzu-simple
       ref:
         branch: main
